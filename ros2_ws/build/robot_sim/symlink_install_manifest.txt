@@ -1,0 +1,15 @@
+/home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/ament_index/resource_index/package_run_dependencies/robot_sim
+/home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/ament_index/resource_index/parent_prefix_path/robot_sim
+/home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/environment/ament_prefix_path.sh
+/home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/environment/ament_prefix_path.dsv
+/home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/environment/path.sh
+/home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/environment/path.dsv
+/home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/local_setup.bash
+/home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/local_setup.sh
+/home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/local_setup.zsh
+/home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/local_setup.dsv
+/home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/package.dsv
+/home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/ament_index/resource_index/packages/robot_sim
+/home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/cmake/robot_simConfig.cmake
+/home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/cmake/robot_simConfig-version.cmake
+/home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/package.xml

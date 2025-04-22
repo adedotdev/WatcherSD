@@ -1,0 +1,42 @@
+[0.008s] Invoking command in '/home/arcs/WatcherSD/ros2_ws/build/robot_sim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/arcs/WatcherSD/ros2_ws/src/robot_sim -DCMAKE_INSTALL_PREFIX=/home/arcs/WatcherSD/ros2_ws/install/robot_sim
+[0.046s] -- The C compiler identification is GNU 11.4.0
+[0.096s] -- The CXX compiler identification is GNU 11.4.0
+[0.101s] -- Detecting C compiler ABI info
+[0.148s] -- Detecting C compiler ABI info - done
+[0.159s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.159s] -- Detecting C compile features
+[0.159s] -- Detecting C compile features - done
+[0.163s] -- Detecting CXX compiler ABI info
+[0.218s] -- Detecting CXX compiler ABI info - done
+[0.230s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.230s] -- Detecting CXX compile features
+[0.230s] -- Detecting CXX compile features - done
+[0.233s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.345s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.406s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.460s] -- Added test 'lint_cmake' to check CMake code style
+[0.461s] -- Added test 'xmllint' to check XML markup files
+[0.462s] -- Configuring done
+[0.463s] -- Generating done
+[0.465s] -- Build files have been written to: /home/arcs/WatcherSD/ros2_ws/build/robot_sim
+[0.467s] Invoked command in '/home/arcs/WatcherSD/ros2_ws/build/robot_sim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/arcs/WatcherSD/ros2_ws/src/robot_sim -DCMAKE_INSTALL_PREFIX=/home/arcs/WatcherSD/ros2_ws/install/robot_sim
+[0.469s] Invoking command in '/home/arcs/WatcherSD/ros2_ws/build/robot_sim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/arcs/WatcherSD/ros2_ws/build/robot_sim -- -j12 -l12
+[0.493s] Invoked command in '/home/arcs/WatcherSD/ros2_ws/build/robot_sim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/arcs/WatcherSD/ros2_ws/build/robot_sim -- -j12 -l12
+[0.500s] Invoking command in '/home/arcs/WatcherSD/ros2_ws/build/robot_sim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/arcs/WatcherSD/ros2_ws/build/robot_sim
+[0.505s] -- Install configuration: ""
+[0.505s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/ament_index/resource_index/package_run_dependencies/robot_sim
+[0.505s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/ament_index/resource_index/parent_prefix_path/robot_sim
+[0.505s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/environment/ament_prefix_path.sh
+[0.505s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/environment/ament_prefix_path.dsv
+[0.505s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/environment/path.sh
+[0.505s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/environment/path.dsv
+[0.505s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/local_setup.bash
+[0.505s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/local_setup.sh
+[0.505s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/local_setup.zsh
+[0.506s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/local_setup.dsv
+[0.506s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/package.dsv
+[0.506s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/ament_index/resource_index/packages/robot_sim
+[0.506s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/cmake/robot_simConfig.cmake
+[0.506s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/cmake/robot_simConfig-version.cmake
+[0.506s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/robot_sim/share/robot_sim/package.xml
+[0.507s] Invoked command in '/home/arcs/WatcherSD/ros2_ws/build/robot_sim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/arcs/WatcherSD/ros2_ws/build/robot_sim

@@ -1,0 +1,32 @@
+[0.011s] Invoking command in '/home/arcs/WatcherSD/ros2_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/arcs/WatcherSD/ros2_ws/build/turtlebot3_fake_node -- -j12 -l12
+[0.040s] [35m[1mConsolidate compiler generated dependencies of target turtlebot3_fake_node[0m
+[0.052s] [100%] Built target turtlebot3_fake_node
+[0.059s] Invoked command in '/home/arcs/WatcherSD/ros2_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/arcs/WatcherSD/ros2_ws/build/turtlebot3_fake_node -- -j12 -l12
+[0.060s] Invoking command in '/home/arcs/WatcherSD/ros2_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/arcs/WatcherSD/ros2_ws/build/turtlebot3_fake_node
+[0.067s] -- Install configuration: ""
+[0.068s] -- Execute custom install script
+[0.068s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[0.075s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[0.081s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[0.087s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[0.094s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[0.100s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[0.108s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[0.114s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[0.120s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[0.126s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[0.132s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[0.138s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[0.145s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[0.151s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[0.157s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[0.163s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[0.169s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[0.175s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[0.181s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[0.187s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.193s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.200s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[0.205s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[0.211s] -- Symlinking: /home/arcs/WatcherSD/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[0.219s] Invoked command in '/home/arcs/WatcherSD/ros2_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/arcs/WatcherSD/ros2_ws/build/turtlebot3_fake_node

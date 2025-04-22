@@ -1,0 +1,349 @@
+[0.007s] Invoking command in '/home/arcs/WatcherSD/ros2_ws/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/arcs/WatcherSD/ros2_ws/build/turtlesim -- -j12 -l12
+[0.043s] [  1%] Built target turtlesim__cpp
+[0.044s] [ 11%] Built target turtlesim__rosidl_generator_c
+[0.051s] [ 11%] Built target ament_cmake_python_copy_turtlesim
+[0.060s] [ 31%] Built target turtlesim__rosidl_typesupport_introspection_c
+[0.060s] [ 31%] Built target turtlesim__rosidl_typesupport_introspection_cpp
+[0.060s] [ 41%] Built target turtlesim__rosidl_typesupport_fastrtps_cpp
+[0.064s] [ 61%] Built target turtlesim__rosidl_typesupport_c
+[0.064s] [ 61%] Built target turtlesim__rosidl_typesupport_cpp
+[0.066s] [ 71%] Built target turtlesim__rosidl_typesupport_fastrtps_c
+[0.079s] [ 71%] Built target turtlesim
+[0.082s] [ 73%] Built target draw_square
+[0.082s] [ 75%] Built target turtle_teleop_key
+[0.083s] [ 77%] Built target mimic
+[0.095s] [ 78%] [32mBuilding CXX object CMakeFiles/turtlesim_node.dir/src/turtle_frame.cpp.o[0m
+[0.095s] [ 79%] Built target turtlesim__py
+[0.113s] [ 88%] Built target turtlesim__rosidl_generator_py
+[0.128s] [ 94%] Built target turtlesim__rosidl_typesupport_introspection_c__pyext
+[0.129s] [ 94%] Built target turtlesim__rosidl_typesupport_c__pyext
+[0.129s] [ 94%] Built target turtlesim__rosidl_typesupport_fastrtps_c__pyext
+[0.277s] running egg_info
+[0.278s] writing turtlesim.egg-info/PKG-INFO
+[0.278s] writing dependency_links to turtlesim.egg-info/dependency_links.txt
+[0.278s] writing top-level names to turtlesim.egg-info/top_level.txt
+[0.280s] reading manifest file 'turtlesim.egg-info/SOURCES.txt'
+[0.281s] writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+[0.300s] [ 94%] Built target ament_cmake_python_build_turtlesim_egg
+[8.195s] [ 95%] [32m[1mLinking CXX executable turtlesim_node[0m
+[9.664s] [100%] Built target turtlesim_node
+[9.682s] Invoked command in '/home/arcs/WatcherSD/ros2_ws/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/arcs/WatcherSD/ros2_ws/build/turtlesim -- -j12 -l12
+[9.685s] Invoking command in '/home/arcs/WatcherSD/ros2_ws/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/arcs/WatcherSD/ros2_ws/build/turtlesim
+[9.694s] -- Install configuration: ""
+[9.694s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/ament_index/resource_index/rosidl_interfaces/turtlesim
+[9.694s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim
+[9.694s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action
+[9.694s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/rotate_absolute.h
+[9.694s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[9.694s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__struct.h
+[9.694s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__functions.c
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__functions.h
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__type_support.h
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/color.h
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/pose.h
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__functions.h
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__type_support.h
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__functions.c
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__struct.h
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__struct.h
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__functions.h
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__functions.c
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__type_support.h
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_generator_c__visibility_control.h
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv
+[9.695s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/spawn.h
+[9.696s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/kill.h
+[9.696s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/set_pen.h
+[9.696s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_absolute.h
+[9.696s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[9.696s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__functions.c
+[9.696s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__functions.h
+[9.696s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__functions.h
+[9.696s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__type_support.h
+[9.696s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__functions.c
+[9.696s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__type_support.h
+[9.696s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__type_support.h
+[9.696s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__functions.c
+[9.696s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__type_support.h
+[9.696s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__functions.h
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__struct.h
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__struct.h
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__type_support.h
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__functions.h
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__functions.c
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__struct.h
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__struct.h
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__functions.h
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__functions.c
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__struct.h
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_relative.h
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/environment/library_path.sh
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/environment/library_path.dsv
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/lib/libturtlesim__rosidl_generator_c.so
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_fastrtps_c.h
+[9.697s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_fastrtps_c.h
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_fastrtps_c.h
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_fastrtps_c.h
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_fastrtps_c.h
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_fastrtps_c.h
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_fastrtps_c.h
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_fastrtps_c.h
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/lib/libturtlesim__rosidl_typesupport_fastrtps_c.so
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/rotate_absolute.hpp
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__builder.hpp
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__struct.hpp
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__type_support.hpp
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__traits.hpp
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg
+[9.698s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/color.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/pose.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_generator_cpp__visibility_control.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__struct.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__type_support.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__builder.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__builder.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__traits.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__struct.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__type_support.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__traits.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/set_pen.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_relative.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/kill.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/spawn.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_absolute.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__traits.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__traits.hpp
+[9.699s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__traits.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__builder.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__type_support.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__struct.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__type_support.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__type_support.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__builder.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__struct.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__struct.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__builder.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__type_support.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__builder.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__type_support.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__struct.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__traits.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__struct.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__builder.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__traits.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_fastrtps_cpp.hpp
+[9.700s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail/dds_fastrtps
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_fastrtps_cpp.hpp
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_fastrtps_cpp.hpp
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/dds_fastrtps
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_fastrtps_cpp.hpp
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_fastrtps_cpp.hpp
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_fastrtps_cpp.hpp
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_fastrtps_cpp.hpp
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_fastrtps_cpp.hpp
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/dds_fastrtps
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/lib/libturtlesim__rosidl_typesupport_fastrtps_cpp.so
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_introspection_c.h
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__type_support.c
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg
+[9.701s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_introspection_c.h
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__type_support.c
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_introspection_c.h
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__type_support.c
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__type_support.c
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__type_support.c
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__type_support.c
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_introspection_c.h
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_introspection_c.h
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_introspection_c.h
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__type_support.c
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_introspection_c.h
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_introspection_c.h
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__type_support.c
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/lib/libturtlesim__rosidl_typesupport_introspection_c.so
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/lib/libturtlesim__rosidl_typesupport_c.so
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__type_support.cpp
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_introspection_cpp.hpp
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg
+[9.702s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_introspection_cpp.hpp
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__type_support.cpp
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__type_support.cpp
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_introspection_cpp.hpp
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_introspection_cpp.hpp
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_introspection_cpp.hpp
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_introspection_cpp.hpp
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__type_support.cpp
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_introspection_cpp.hpp
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__type_support.cpp
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__type_support.cpp
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__type_support.cpp
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__type_support.cpp
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_introspection_cpp.hpp
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/lib/libturtlesim__rosidl_typesupport_introspection_cpp.so
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/lib/libturtlesim__rosidl_typesupport_cpp.so
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/environment/pythonpath.sh
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/environment/pythonpath.dsv
+[9.703s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim-1.4.2-py3.10.egg-info
+[9.703s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim-1.4.2-py3.10.egg-info/top_level.txt
+[9.703s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim-1.4.2-py3.10.egg-info/SOURCES.txt
+[9.703s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim-1.4.2-py3.10.egg-info/dependency_links.txt
+[9.703s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim-1.4.2-py3.10.egg-info/PKG-INFO
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/__init__.py
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action/_rotate_absolute_s.c
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action/__init__.py
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action/_rotate_absolute.py
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/libturtlesim__rosidl_generator_py.so
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_color_s.c
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/__init__.py
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_pose_s.c
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_color.py
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_pose.py
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/_turtlesim_s.ep.rosidl_typesupport_introspection_c.c
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_absolute.py
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_relative_s.c
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_absolute_s.c
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_spawn_s.c
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/__init__.py
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_set_pen_s.c
+[9.704s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_set_pen.py
+[9.705s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_spawn.py
+[9.705s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_kill.py
+[9.705s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_kill_s.c
+[9.705s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_relative.py
+[9.705s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/_turtlesim_s.ep.rosidl_typesupport_c.c
+[9.705s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/_turtlesim_s.ep.rosidl_typesupport_fastrtps_c.c
+[9.722s] Listing '/home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim'...
+[9.722s] Listing '/home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action'...
+[9.722s] Listing '/home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg'...
+[9.722s] Listing '/home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv'...
+[9.725s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[9.725s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[9.726s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[9.726s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/lib/libturtlesim__rosidl_generator_py.so
+[9.726s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/action/RotateAbsolute.idl
+[9.726s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/msg/Color.idl
+[9.726s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/msg/Pose.idl
+[9.726s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/Kill.idl
+[9.726s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/SetPen.idl
+[9.726s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/Spawn.idl
+[9.726s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/TeleportAbsolute.idl
+[9.726s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/TeleportRelative.idl
+[9.726s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/action/RotateAbsolute.action
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/msg/Color.msg
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/msg/Pose.msg
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/Kill.srv
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/Kill_Request.msg
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/Kill_Response.msg
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/SetPen.srv
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/SetPen_Request.msg
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/SetPen_Response.msg
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/Spawn.srv
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/Spawn_Request.msg
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/Spawn_Response.msg
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/TeleportAbsolute.srv
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/TeleportAbsolute_Request.msg
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/TeleportAbsolute_Response.msg
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/TeleportRelative.srv
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/TeleportRelative_Request.msg
+[9.727s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/srv/TeleportRelative_Response.msg
+[9.727s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/lib/turtlesim/turtlesim_node
+[9.732s] -- Set runtime path of "/home/arcs/WatcherSD/ros2_ws/install/turtlesim/lib/turtlesim/turtlesim_node" to ""
+[9.732s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/lib/turtlesim/turtle_teleop_key
+[9.732s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/lib/turtlesim/draw_square
+[9.732s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/lib/turtlesim/mimic
+[9.732s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/images
+[9.732s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/images/humble.png
+[9.732s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/images/eloquent.png
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/images/bouncy.png
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/images/foxy.png
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/images/ardent.png
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/images/galactic.png
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/images/rolling.png
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/images/crystal.png
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/images/dashing.png
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/launch
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/launch/multisim.launch.py
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/ament_index/resource_index/package_run_dependencies/turtlesim
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/ament_index/resource_index/parent_prefix_path/turtlesim
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/environment/ament_prefix_path.sh
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/environment/ament_prefix_path.dsv
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/environment/path.sh
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/environment/path.dsv
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/local_setup.bash
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/local_setup.sh
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/local_setup.zsh
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/local_setup.dsv
+[9.733s] -- Installing: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/package.dsv
+[9.733s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/ament_index/resource_index/packages/turtlesim
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_cExport.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_cExport-noconfig.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cExport.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_cppExport.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cppExport.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cExport.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cExport.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cExport-noconfig.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cppExport.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cppExport.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cppExport-noconfig.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_pyExport.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_pyExport-noconfig.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/rosidl_cmake-extras.cmake
+[9.734s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_dependencies-extras.cmake
+[9.735s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_include_directories-extras.cmake
+[9.735s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_libraries-extras.cmake
+[9.735s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_targets-extras.cmake
+[9.735s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[9.735s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[9.735s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/turtlesimConfig.cmake
+[9.735s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/cmake/turtlesimConfig-version.cmake
+[9.735s] -- Up-to-date: /home/arcs/WatcherSD/ros2_ws/install/turtlesim/share/turtlesim/package.xml
+[9.737s] Invoked command in '/home/arcs/WatcherSD/ros2_ws/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/arcs/WatcherSD/ros2_ws/build/turtlesim
