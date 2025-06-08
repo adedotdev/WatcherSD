@@ -36,7 +36,7 @@ A simulation to test autonomous navigation capabilities for a Smart Wheelchair u
 export TURTLEBOT3_MODEL=burger
 ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
 ```
-   To load a different simulation environment (optional)
+- To load a different simulation environment (optional)
 ```
 export TURTLEBOT3_MODEL=burger
 ros2 launch turtlebot3_gazebo turtlebot3_house.launch.py
@@ -53,7 +53,7 @@ ros2 launch turtlebot3_cartographer cartographer.launch.py use_sim_time:=True
 export TURTLEBOT3_MODEL=burger
 ros2 run turtlebot3_teleop teleop_keyboard
 ```
-   Use given keys to move around. You should see output similar to:
+- Use given keys to move around. You should see output similar to:
 ```
 Control Your TurtleBot3!
  ---------------------------
@@ -84,7 +84,7 @@ ros2 run nav2_map_server map_saver_cli -f ~/map
 export TURTLEBOT3_MODEL=burger
 ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
 ```
-   To load a different simulation environment (optional)
+- To load a different simulation environment (optional)
 ```
 export TURTLEBOT3_MODEL=burger
 ros2 launch turtlebot3_gazebo turtlebot3_house.launch.py
