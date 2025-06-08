@@ -8,6 +8,7 @@ A simulation to test autonomous navigation capabilities for a Smart Wheelchair u
 - RViz
 - Gazebo
 
+
 ## Installation & Build
 1. Create a ROS2 workspace
 ```
@@ -27,6 +28,7 @@ A simulation to test autonomous navigation capabilities for a Smart Wheelchair u
    ros2 pkg create --build-type ament_cmake --license Apache-2.0 <package_name>
    colcon build --packages-select <package_name>
 ```
+
 
 ## Setup & Launch (multiple terminals required)
 1. Launch default simulation world (first terminal)
@@ -75,6 +77,7 @@ ros2 run nav2_map_server map_saver_cli -f ~/map
 5. Ensure map is saved by checking downloads or root directory (~/map.pgm)
 6. Clear or close all terminals
 
+
 ## Usage (multiple terminals required)
 1. Launch default simulation world (first terminal)
 ```
@@ -105,6 +108,7 @@ ros2 run turtlebot3_teleop teleop_keyboard
 6. Terminate teleoperation node with `Ctrl + C`
 
 7. Click `Navigation Goal` button in RViz, then click on the map to set the destination of the robot and drag the green arrow towards the direction the robot will be facing.
+
 
 ## License
 Released under Apache-2.0
