@@ -8,22 +8,25 @@ A simulation to test autonomous navigation capabilities using turtlebot for a Sm
 - RViz
 - Gazebo
 
-## Installation and Build
-1. Clone the repository
+## Installation & Build
+1. Create a ROS2 workspace
 ```
-   git clone
+   mkdir ~/ros2_ws
+   cd ros2_ws
+```
+
+2. Clone the repository
+```
+   cd ~/turtlebot3_ws/src/
+   git clone -b humble https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+   cd ~/turtlebot3_ws && colcon build --symlink-install
 ```
    
-3. Create a ROS2 workspace
+3. To create and build a new package in ROS2 (optional)
+```
+   ros2 pkg create --build-type ament_cmake --license Apache-2.0 <package_name>
+   colcon build --packages-select <package_name>
+```
 
-   `mkdir ros2_ws`
-   
-5. Create a new package in ROS2
-
-   `ros2 pkg create --build-type ament_cmake --license Apache-2.0 <package_name>`
-   
-7. Build and verify success
-
-   `colcon build --packages-select <package_name>`
-
-## Launch
+## Setup & Launch
+1. Launch simulation world...
