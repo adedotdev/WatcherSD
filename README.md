@@ -1,6 +1,6 @@
 # WatcherSD
 
-A simulation to test autonomous navigation capabilities using turtlebot for a Smart Wheelchair
+A simulation to test autonomous navigation capabilities for a Smart Wheelchair using turtlebotsim
 
 
 ## Prerequisites
