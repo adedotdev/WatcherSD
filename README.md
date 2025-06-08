@@ -29,7 +29,18 @@ A simulation to test autonomous navigation capabilities for a Smart Wheelchair u
 ```
 
 ## Setup & Launch
-1. Launch simulation world...
+1. Launch default simulation world
+```
+export TURTLEBOT3_MODEL=burger
+ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
+```
+To load a different simulation environment (optional)
+```
+export TURTLEBOT3_MODEL=burger
+ros2 launch turtlebot3_gazebo turtlebot3_house.launch.py
+```
+
+2. 
 
 ## License
 Released under Apache-2.0
