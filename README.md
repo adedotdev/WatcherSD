@@ -48,12 +48,12 @@ export TURTLEBOT3_MODEL=burger
 ros2 launch turtlebot3_cartographer cartographer.launch.py use_sim_time:=True
 ```
 
-3. Run teleoperation node using specified keys and view in RViz (third terminal)
+3. Run teleoperation node and view in RViz (third terminal)
 ```
 export TURTLEBOT3_MODEL=burger
 ros2 run turtlebot3_teleop teleop_keyboard
 ```
-   You should see output similar to:
+   Use given keys to move around. You should see output similar to:
 ```
 Control Your TurtleBot3!
  ---------------------------
