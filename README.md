@@ -30,3 +30,6 @@ A simulation to test autonomous navigation capabilities using turtlebot for a Sm
 
 ## Setup & Launch
 1. Launch simulation world...
+
+## License
+Released under Apache-2.0
