@@ -36,7 +36,7 @@ A simulation to test autonomous navigation capabilities for a Smart Wheelchair u
 export TURTLEBOT3_MODEL=burger
 ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
 ```
-- To load a different simulation environment (optional)
+   - To load a different simulation environment (optional)
 ```
 export TURTLEBOT3_MODEL=burger
 ros2 launch turtlebot3_gazebo turtlebot3_house.launch.py
@@ -53,7 +53,7 @@ ros2 launch turtlebot3_cartographer cartographer.launch.py use_sim_time:=True
 export TURTLEBOT3_MODEL=burger
 ros2 run turtlebot3_teleop teleop_keyboard
 ```
-- Use given keys to move around. You should see output similar to:
+   - Use given keys to move around. You should see output similar to:
 ```
 Control Your TurtleBot3!
  ---------------------------
@@ -84,7 +84,7 @@ ros2 run nav2_map_server map_saver_cli -f ~/map
 export TURTLEBOT3_MODEL=burger
 ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
 ```
-- To load a different simulation environment (optional)
+   - To load a different simulation environment (optional)
 ```
 export TURTLEBOT3_MODEL=burger
 ros2 launch turtlebot3_gazebo turtlebot3_house.launch.py
@@ -96,9 +96,12 @@ export TURTLEBOT3_MODEL=burger
 ros2 launch turtlebot3_navigation2 navigation2.launch.py use_sim_time:=True map:=$HOME/map.yaml
 ```
 
-3. Estimate initial pose by clicking `2D Pose Estimate` button in RViz, then click-hold on map where robot is located, and finally drag green arrow toward the direction where the robot is facing. Repeat until the LDS sensor data is overlayed on the saved map
+3. Estimate Initial Pose
+   - Click `2D Pose Estimate` button in RViz
+   - Click-hold on map where robot is located and drag green arrow toward the direction where the robot is facing
+   - Repeat until the LDS sensor data is overlayed on the saved map
 
-4. Run teleoperation node to precisely locate the robot on the map
+5. Run teleoperation node to precisely locate the robot on the map
 ```
 ros2 run turtlebot3_teleop teleop_keyboard
 ```
@@ -107,7 +110,9 @@ ros2 run turtlebot3_teleop teleop_keyboard
 
 6. Terminate teleoperation node with `Ctrl + C`
 
-7. Click `Navigation Goal` button in RViz, then click on the map to set the destination of the robot and drag the green arrow towards the direction the robot will be facing.
+7. Set Navigation Goal
+   - Click `Navigation Goal` button in RViz
+   - Click on the map to set the destination of the robot and drag the green arrow towards the direction the robot will be facing.
 
 
 ## License
