@@ -10,7 +10,7 @@ A simulation to test autonomous navigation capabilities using turtlebot for a Sm
 
 ## Installation and Build
 1. Clone the repository
-   `git clone`
+   ```git clone```
    
 3. Create a ROS2 workspace
 
